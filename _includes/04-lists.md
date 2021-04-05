@@ -1,5 +1,0 @@
-- Thing 1
-- Thing 2
-- Thing 3
-  - And a few other things
-  - Also this.
